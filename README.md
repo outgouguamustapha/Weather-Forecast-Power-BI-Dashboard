@@ -1,17 +1,19 @@
 # Weather Forecast Power BI Dashboard  
 
-This Power BI dashboard delivers real-time 5-day weather forecasts for six Indian cities using data from the Weather API. It transforms raw API data into an interactive visualization that makes weather insights accessible and engaging.
+This Power BI dashboard delivers real-time 3-day weather forecasts for six Moroccan cities using data from the Weather API. It transforms raw API data into an interactive visualization that makes weather insights accessible and engaging.
 
 ---
+## 📊 Live Dashboard
 
-## 🌐 Dashboard Walkthrough
-<iframe title="Weather Forcast" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzAyOWUxMWUtZDIyZi00OWZmLWI2NDYtY2QxOTg0YjA1ZTU2IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+👉 Explore the interactive dashboard here:
+[Weather Forecast Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzAyOWUxMWUtZDIyZi00OWZmLWI2NDYtY2QxOTg0YjA1ZTU2IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9)
 
 ---
 
 ## 📊 Project Overview
 
 The dashboard covers Rabat, Marrakech, Casablanca, Meknes, Agadir and Tangier, with Auto-Updated data. It provides detailed analysis of temperature trends, humidity, rainfall, wind speed and direction, UV index, visibility, and sunrise/sunset timings. Built using Power Query, DAX, and data modeling, the project highlights how Power BI can convert live weather data into an informative storytelling dashboard.
+
 
 ---
 
@@ -66,7 +68,7 @@ Contains clean and modern background designs used across different sections of t
 
 ## 🌟 Features
 
-- City-wise **5-day forecast** (Rabat, Marrakech, Casablanca, Meknes, Agadir, Tangier)  
+- City-wise **3-day forecast** (Rabat, Marrakech, Casablanca, Meknes, Agadir, Tangier)  
 - Real-time weather condition monitoring  
 - Temperature tracking & trend analysis  
 - Humidity and precipitation insights  
