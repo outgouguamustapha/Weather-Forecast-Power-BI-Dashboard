@@ -6,8 +6,7 @@ This Power BI dashboard delivers real-time 3-day weather forecasts for six Moroc
 ## 📊 Live Dashboard
 
 👉 Explore the interactive dashboard here:
-[Weather Forecast Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzAyOWUxMWUtZDIyZi00OWZmLWI2NDYtY2QxOTg0YjA1ZTU2IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9)
-
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzAyOWUxMWUtZDIyZi00OWZmLWI2NDYtY2QxOTg0YjA1ZTU2IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9" target="_blank">Weather Forecast Dashboard</a>
 ---
 
 ## 📊 Project Overview
